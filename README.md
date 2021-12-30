@@ -24,5 +24,7 @@
 > conda activate calc
 > python -m ipykernel install --user --name calc --display-name Calc
 - Now your python environment is ready!
-## CMIP6 analysis
+## CMIP6 analysis example
+- Some CMIP6 data is stored in shared data disk on cori. 
+- Re-gridded CMIP6 data is stored in /global/cfs/cdirs/m3920/dataset/cmip6
 ### Ocean heat content
