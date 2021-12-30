@@ -1,4 +1,5 @@
 # cori-shared-notebook
 ## getting started
 ### login
-Access the jupyterhub on cori via [link](https://my.nersc.gov)
+Open a new tab. Then, access the jupyterhub on cori via copying this URL https://jupyter.nersc.gov
+
