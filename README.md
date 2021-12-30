@@ -18,10 +18,10 @@
 > conda update --all
 - Next install mamba. This is a parallel version of conda. 
 > conda install mamba -c conda-forge
--  you will upload the env-calc.yml file from this repository and create a new "calc" environment. (This might take a while)
+-  you will upload the env-calc.yml file from this repository and create a new "calc" environment. (This might take a while, please be patient)
 > mamba env create -f env-calc.yml
 - Make the new "calc" environment accessible from jupyter notebook
 > conda activate calc
 > python -m ipykernel install --user --name calc --display-name Calc
 - Now your python environment is ready!
-### test your environment with some test cases
+### test your environment
