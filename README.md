@@ -6,4 +6,5 @@
 ### setting up python environment
 - First download "miniconda Linux 64bit" to your laptop from https://docs.conda.io/en/latest/miniconda.html 
 - Use the upload icon on the jupyterhub to upload the Miniconda3-pyXXXX-Linux-x86_64.sh file to your home directory
-- Execute the shell script by typing > bash Miniconda3-pyXXXX-Linux-x86_64.sh
+- Execute the shell script by typing 
+> bash Miniconda3-pyXXXX-Linux-x86_64.sh
