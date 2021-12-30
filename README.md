@@ -29,8 +29,7 @@
 - Re-gridded CMIP6 data is stored in /global/cfs/cdirs/m3920/dataset/cmip6
 ### Calculating and visualizing the climatology from the monthly model output
 - Tutorial 1: SST [tutorial1_sst_maps.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial1_sst_maps.ipynb). This tutorial shows basic I/O with xarray, calculation of climatology, and basic plotting using a single CMIP6 model
-- Tutorial 2: Heat content
-### Volume-weighted average of upper ocean heat and oxygen content
-- Heat
+- Tutorial 2: Oxygen concent [tutorial2_oxygen_invent.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial2_oxygen_invent.ipynb), volume-weighted average of upper ocean oxygen maps
+- Tutorial 3: Heat content time series
 - Oxygen
 
