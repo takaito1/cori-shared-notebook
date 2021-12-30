@@ -27,4 +27,10 @@
 ## CMIP6 analysis example
 - Some CMIP6 data is stored in shared data disk on cori. 
 - Re-gridded CMIP6 data is stored in /global/cfs/cdirs/m3920/dataset/cmip6
-### Ocean heat content
+### Calculating and visualizing the climatology from the monthly model output
+- SST (stored as tos-XXX.nc)
+- Oxygen
+### Volume-weighted average of upper ocean heat and oxygen content
+- Heat
+- Oxygen
+
