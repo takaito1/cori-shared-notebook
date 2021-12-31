@@ -6,11 +6,10 @@
 - Documentation for jupyterlab is at this URL https://jupyterlab.readthedocs.io/en/stable/
 ### setting up python environment (do this only once)
 - Select shared CPU node from the login menu.
-- From the select "+" to start a new launcher, and from "other" start a "terminal" to open a command line terminal. Then execute, 
-> git clone 
-- First download "miniconda Linux 64bit" to your laptop from https://docs.conda.io/en/latest/miniconda.html 
-- Use the upload icon on the jupyterhub to upload the Miniconda3-pyXXXX-Linux-x86_64.sh file to your home directory
-- Next open a terminal on the jupyterhub. Execute the shell script by typing as follows and set up base of miniconda3
+- From the select "+" to start a new launcher, and from "other" start a "terminal" to open a command line terminal. 
+- First download "miniconda Linux 64bit" from https://docs.conda.io/en/latest/miniconda.html 
+- This can be done using wget command, or first download it to your computer and use the upload icon on the jupyterhub to upload the Miniconda3-pyXXXX-Linux-x86_64.sh file to your home directory
+- Execute the shell script by typing as follows and set up base of miniconda3
 > bash Miniconda3-pyXXXX-Linux-x86_64.sh
 - Follow the prompts. It will ask for the destination to install miniconda3. I suggest you follow the prompt and use your $HOME.   
 - It will ask "Do you wish the installer to initialize Miniconda3?". Answer no to this one. 
