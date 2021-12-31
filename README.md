@@ -5,6 +5,9 @@
 - Open your web browser on your laptop. Access the jupyterhub on cori via copying this URL https://jupyter.nersc.gov.  
 - Documentation for jupyterlab is at this URL https://jupyterlab.readthedocs.io/en/stable/
 ### setting up python environment (do this only once)
+- Select shared CPU node from the login menu.
+- From the select "+" to start a new launcher, and from "other" start a "terminal" to open a command line terminal. Then execute, 
+> git clone 
 - First download "miniconda Linux 64bit" to your laptop from https://docs.conda.io/en/latest/miniconda.html 
 - Use the upload icon on the jupyterhub to upload the Miniconda3-pyXXXX-Linux-x86_64.sh file to your home directory
 - Next open a terminal on the jupyterhub. Execute the shell script by typing as follows and set up base of miniconda3
