@@ -22,6 +22,9 @@
 - Next install mamba. This is a parallel version of conda. 
 > conda install mamba -c conda-forge
 - you will copy the env-calc.yml file from this repository. Try: 
+> mkdir -p /global/cfs/cdirs/m3920/$USER
+>
+> cd /global/cfs/cdirs/m3920/$USER
 > git clone https://github.com/takaito1/cori-shared-notebook.git
 > 
 > cd cori-shared-notebook
