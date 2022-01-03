@@ -25,6 +25,7 @@
 > mkdir -p /global/cfs/cdirs/m3920/$USER
 >
 > cd /global/cfs/cdirs/m3920/$USER
+> 
 > git clone https://github.com/takaito1/cori-shared-notebook.git
 > 
 > cd cori-shared-notebook
