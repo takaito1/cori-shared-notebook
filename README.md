@@ -22,7 +22,9 @@
 - Next install mamba. This is a parallel version of conda. 
 > conda install mamba -c conda-forge
 - you will copy the env-calc.yml file from this repository. Try: 
-> wget https://github.com/takaito1/cori-shared-notebook/blob/main/env-calc.yml
+> git clone https://github.com/takaito1/cori-shared-notebook.git
+> 
+> cd cori-shared-notebook
 - Create a new "calc" environment. (This might take a while, please be patient)
 > mamba env create -f env-calc.yml
 - Make the new "calc" environment accessible from jupyter notebook
