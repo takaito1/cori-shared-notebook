@@ -15,6 +15,7 @@
 - It will ask "Do you wish the installer to initialize Miniconda3?". Answer no to this one. 
 - You can manually initialize miniconda3 by typing at the command prompt as follows: 
 > source $HOME/miniconda3/etc/profile.d/conda.sh
+> 
 > conda activate
 - You should see (base) before the prompt now. Now you are in the "base" environment. First update the base environment and follow the prompts to completion. 
 > conda update --all
