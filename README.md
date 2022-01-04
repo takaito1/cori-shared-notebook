@@ -33,6 +33,7 @@
 > mamba env create -f env-calc.yml
 - Make the new "calc" environment accessible from jupyter notebook
 > conda activate calc
+> 
 > python -m ipykernel install --user --name calc --display-name Calc
 - Now your python environment is ready!
 ## CMIP6 analysis example
