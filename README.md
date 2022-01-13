@@ -44,4 +44,6 @@
 - Tutorial 1: SST [tutorial1_sst_maps.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial1_sst_maps.ipynb). This tutorial shows basic I/O with xarray, calculation of climatology, and basic plotting using a single CMIP6 model
 - Tutorial 2: Oxygen [tutorial2_oxygen_invent.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial2_oxygen_invent.ipynb), volume-weighted average of upper ocean oxygen maps
 ## Trajectory analysis example
+- This uses the 3D trajectory output of global eddy resolving MPAS-O
+- The data is stored in project storage space on cori: /global/cfs/cdirs/m3920/dataset/MPAS-O/takaito/
 - Tutorial 3: Identify and extract trajectory: [tutorial3_extract_trajectory.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial3_extract_trajectory.ipynb)
