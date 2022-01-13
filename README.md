@@ -47,3 +47,4 @@
 - This uses the 3D trajectory output of global eddy resolving MPAS-O
 - The data is stored in project storage space on cori: /global/cfs/cdirs/m3920/dataset/MPAS-O/takaito/
 - Tutorial 3: Identify and extract trajectory: [tutorial3_extract_trajectory.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial3_extract_trajectory.ipynb)
+- Tutorial 4: Cluster analysis of QC'ed trajectory: [tutorial4_trajectory_cluster.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial4_trajectory_cluster.ipynb)
