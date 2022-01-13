@@ -43,4 +43,5 @@
 ### Calculating and visualizing the climatology from the monthly model output
 - Tutorial 1: SST [tutorial1_sst_maps.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial1_sst_maps.ipynb). This tutorial shows basic I/O with xarray, calculation of climatology, and basic plotting using a single CMIP6 model
 - Tutorial 2: Oxygen [tutorial2_oxygen_invent.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial2_oxygen_invent.ipynb), volume-weighted average of upper ocean oxygen maps
-
+## Trajectory analysis example
+- Tutorial 3: Identify and extract trajectory: [tutorial3_extract_trajectory.ipynb](https://github.com/takaito1/cori-shared-notebook/blob/main/tutorial3_extract_trajectory.ipynb)
