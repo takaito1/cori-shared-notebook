@@ -1,0 +1,9 @@
+/global/cfs/cdirs/m3920/dataset/cmip6/E3SM-1-1/fgco2_Omon_E3SM-1-1_historical_r1i1p1f1_gwoa13cpsurf_185001-201412.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/ACCESS-ESM1-5/fgco2_ACCESS-ESM1-5_Omon_historical_r1i1p1f1_gn_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/CESM2/fgco2_CESM2_Omon_historical_r1i1p1f1_gn_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/CanESM5/fgco2_CanESM5_Omon_historical_r1i1p1f1_gn_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/GFDL-ESM4/fgco2_GFDL-ESM4_Omon_historical_r1i1p1f1_gr_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/IPSL-CM6A-LR/fgco2_IPSL-CM6A-LR_Omon_historical_r1i1p1f1_gn_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/MPI-ESM1-2-LR/fgco2_MPI-ESM1-2-LR_Omon_historical_r1i1p1f1_gn_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/NorCPM1/fgco2_NorCPM1_Omon_historical_r1i1p1f1_gn_woagrid.nc
+/global/cfs/cdirs/m3920/dataset/cmip6/NorESM2-LM/fgco2_NorESM2-LM_Omon_historical_r1i1p1f1_gn_woagrid.nc
